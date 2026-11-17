@@ -6,3 +6,6 @@ python-dotenv
 ipykernel
 typing
 langchain-google-genai
+
+langgraph-checkpoint-sqlite
+streamlit
